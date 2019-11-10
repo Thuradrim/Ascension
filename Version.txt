@@ -10,3 +10,8 @@
 <Version: 1.04>
 /data/Actors.json https://raw.githubusercontent.com/Thuradrim/Ascension/master/Actors.json
 <End of Version>
+
+
+<Version: 1.05>
+/data/Actors.json https://raw.githubusercontent.com/Thuradrim/Ascension/master/Actors.json
+<End of Version>
