@@ -15,4 +15,3 @@
 <Version: 1.05>
 /data/Animations.json https://raw.githubusercontent.com/Thuradrim/Ascension/master/Animations.json
 <End of Version>
-
